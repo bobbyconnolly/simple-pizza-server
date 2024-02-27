@@ -33,7 +33,7 @@ This guide will help you set up your development environment to work with the pr
     ```bash
     npm run dev
     ```
-    - The server should now be running on `localhost` (default port is usually 3000 unless specified otherwise in your project).
+    - The server should now be running on `localhost` (default port is 3333 unless specified otherwise in your project).
 
 ## Using REST Client to Test Endpoints
 
